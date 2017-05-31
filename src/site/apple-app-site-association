@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "8P293438UX.com.xamarin.applinksdemo",
-                "paths": [ "/items" ]
+                "paths": [ "/items/*" ]
             }
         ]
     }
