@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace UniversalLinksDemo.iOS
+namespace AppLinksDemo.iOS
 {
     public class Application
     {

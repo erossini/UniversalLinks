@@ -1,0 +1,4 @@
+git_url "https://github.com/Krumelur/AppleCertificates.git"
+
+app_identifier "com.xamarin.applinksdemo"
+username "rene@c-sharx.net"

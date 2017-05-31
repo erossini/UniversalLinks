@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>UniversalLinksDemo</string>
+	<string>AppLinksDemo</string>
 	<key>CFBundleName</key>
-	<string>UniversalLinksDemo</string>
+	<string>AppLinksDemo</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.xamarin.universallinksdemo</string>
+	<string>com.xamarin.applinksdemo</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
